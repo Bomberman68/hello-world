@@ -1,4 +1,4 @@
-Please click "Edit", then type your name, type your comment, and then click "Commit changes". New comments go at the top.
+Hi, everyone. Please click pencil icon, then type your name, type your comment, and then click "Commit changes". New comments go at the top.
 
 ---------------------------------
 Takashi Narita
