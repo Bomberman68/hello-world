@@ -1,3 +1,5 @@
+Please click "Edit", then type your name, type your comment, and then click "Commit changes". New comments go at the top.
+
 ---------------------------------
 Takashi Narita
 ---------------------------------
