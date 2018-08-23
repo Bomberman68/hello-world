@@ -1,6 +1,11 @@
 Hi, everyone. Please click pencil icon, then type your name, type your comment, and then click "Commit changes". New comments go at the top.
 
 ---------------------------------
+Your Name Here
+---------------------------------
+Your comment here
+
+---------------------------------
 Takashi Narita
 ---------------------------------
 Hi, I'm Takashi Narita, CEO of  Special and Pleasant PTE LTD.
